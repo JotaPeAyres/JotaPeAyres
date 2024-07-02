@@ -1,11 +1,11 @@
 ## Oie! Eu sou o João Pedro Ayres
 I'm a Back-End Dev working with .NET 
 ## GitHub Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/JotaPeAyres">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JotaPeAyres&theme=github_dark&show_icons=true" />
 </a>
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/JotaPeAyres">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JotaPeAyres&layout=compact&langs_count=8&card_width=320&theme=github_dark" />
 </a>
 
